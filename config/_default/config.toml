@@ -1,5 +1,5 @@
 baseURL = "http://aheatu.github.io"
-title = "Hugo Zzo Theme"
+title = "Aheatu"
 theme = "zzo"
 
 defaultContentLanguage = "en"
@@ -9,10 +9,10 @@ hasCJKLanguage = true
 summaryLength = 70
 buildFuture = true
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, Aheatu All Rights Reserved"
 timeout = 10000
 enableEmoji = true
-paginate = 13
+paginate = 10
 rssLimit = 100
 
 enableGitInfo = false
