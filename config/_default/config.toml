@@ -2,7 +2,7 @@ baseURL = "http://aheatu.github.io"
 title = "Aheatu"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
